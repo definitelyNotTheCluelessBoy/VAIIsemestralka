@@ -1,3 +1,24 @@
-body {
-    background-image: url("resources/home-background.jpg");
+h1 {
+    font-family: 'Abril Fatface', serif;
+}
+
+h2 {
+    font-family: 'Abril Fatface', serif;
+}
+
+h3 {
+    font-family: 'Abril Fatface', serif;
+}
+
+h4 {
+    font-family: 'Abril Fatface', serif;
+}
+
+h5 {
+    font-family: 'Abril Fatface', serif;
+}
+
+.customContentText {
+    font-family: Poppins, sans-serif;
+    font-weight: bold;
 }
